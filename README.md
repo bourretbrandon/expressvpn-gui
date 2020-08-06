@@ -3,7 +3,9 @@ A fairly decent Linux GUI to interface with the official ExpressVPN app for Linu
 
 Brandon Bourret - phatwares@cpan.org
 
-I got tired of having to open up the console every time I wanted to interact with ExpressVPN for Linux (console-based is the only version they provide right now). So I wrote a dandy little GUI to interface with it instead.
+I got tired of having to open up the console every time I wanted to interact with ExpressVPN for Linux (console-based is the only version they provide right now). I'm also not interested in yet more browser plug-ins either. So I wrote a dandy little GUI to interface with it instead.
+
+Designed and developed for Debian/Ubuntu-based systems, tested working on Fedora, and MAY work well on RedHat/SuSE. Your mileage may vary.
 
 Feature Overview:
 
