@@ -32,8 +32,7 @@ Advanced Settings Panel - This area shows additional settings and information
 
 System Tray Icon/Indicator - The app can be toggled to the system tray
 
-   NOTE: You must have "libappindicator1" installed on your system (e.g. sudo apt-get install libappindicator1), and your system must support
-   tray icons/notifiers (a few don't).
+   NOTE: You must have "libappindicator" installed on your system, and your desktop environment must support tray icons/notifiers (some don't).
    
 -   Toggle the main GUI window
    
