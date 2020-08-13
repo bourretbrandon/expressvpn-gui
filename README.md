@@ -44,4 +44,4 @@ This app (and all others I publish so far) are PORTABLE APPS. That means there i
 
 I develop using ActivePerl (don't laugh, it's rapid development!) and "compile" with ActiveState's Perl Dev Kit (PDK).
 
-Linux 64-bit: https://www.dropbox.com/s/yg5opf1g4ot6ifk/ExpressVPN-GUI?dl=0
+Linux 64-bit: https://www.dropbox.com/s/xzvw1mis4nwvzu5/expressvpn-gui?dl=0
